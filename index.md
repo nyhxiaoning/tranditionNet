@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/nyhxiaoning/tranditionNet/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# 这是一个传统的网页内容类的网站
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* 我的个人网站主页是nyhxiaoning.github.io *
 
-### Markdown
+## 项目技术描述
+- 对于传统的h5之前的标签应用，用于传统的网站开发大多会增加冗余性，并且标签没有h5那样语义化，一些背景效果图使用起来不是那么流程，网站的兼容性不是很好，只能用于Pc端
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 编辑器 
+- 使用submit webstorm vscode atom
 
-```markdown
-Syntax highlighted code block
+## 项目功能
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nyhxiaoning/tranditionNet/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- 为了展示响应式网站和传统网站的区别，同时传统网站虽然在一些设计方法上逻辑简单，但是代码的冗余过大，同时table的布局对于后期样式的修改是一种毁灭性的打击，主要是为了更好的理解对于响应式网站的开发，进行的喜欢同网站的搭建实验。
